@@ -1,6 +1,6 @@
 # TiKet
 
-# CGA Final Examination Project
+# Mobile Cross-Platform Programming Final Examination Project
 
 ### This project is made using Visual Studio Code with HTML, CSS, and TypeScript in React Framework integrated with Ionic-Capacitor to fulfill our Final Term Examination of Mobile Cross-Platform Programming.
 
